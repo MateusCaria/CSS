@@ -1,0 +1,11 @@
+span {
+    color: coral;
+
+    background-color: aqua;
+
+    display: inline;
+
+    width: 200px;
+    height: 200px;
+    
+}
